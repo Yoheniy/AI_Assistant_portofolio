@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 import streamlit as st
 import google.generativeai as genai
 from gtts import gTTS
@@ -1172,7 +1170,4 @@ if selected=='Contact':
     def local_css(file_name):
         with open(file_name) as f:
             st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-
-
->>>>>>> a7ffa012a75e2561949653823c17a966e5163e9e
     local_css("style/style.css")
