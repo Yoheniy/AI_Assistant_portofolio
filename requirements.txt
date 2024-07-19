@@ -1,5 +1,6 @@
 streamlit
 speechrecognition
 gtts
+streamlit-option-menu
 google-generativeai
 
