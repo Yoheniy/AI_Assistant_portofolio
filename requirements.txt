@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-streamlit
-speechrecognition
-google-generativeai
-
-=======
 streamlit
 speechrecognition
 gtts
 streamlit-option-menu
 google-generativeai
-
->>>>>>> a7ffa012a75e2561949653823c17a966e5163e9e
